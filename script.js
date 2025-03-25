@@ -1,5 +1,5 @@
 async function getAIResponse() {
-    const apiKey = "AIzaSyBVdZRHYxOj_D3J8CLRnNes_pYJ05jDL3s"; // Replace with your actual API key
+    const apiKey = "-"; // Replace with your actual API key
     const userCode = document.getElementById("codeInput").value;
 
     const requestBody = {
